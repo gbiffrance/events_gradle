@@ -1,0 +1,6 @@
+#Thu, 28 Jul 2016 16:04:27 -0700
+
+info.app.version=0.1
+info.app.name=events
+grails.env=development
+info.app.grailsVersion=3.1.10
